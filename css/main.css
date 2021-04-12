@@ -54,6 +54,7 @@ body {
   padding: .5em;
   border-radius: 1em;
   text-decoration: none;
+  outline-color: #fff;
 }
 
 .banner {
